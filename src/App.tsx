@@ -28,7 +28,6 @@ const App = (_: any) => {
         />
         <div style={{ backgroundColor: "#000" }} />
       </ResizablePanels>
-      ;
     </div>
   );
 };
