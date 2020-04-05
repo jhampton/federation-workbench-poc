@@ -7,6 +7,7 @@ import * as colors from "@apollo/space-kit/colors";
 // const editor = {
 //   schema: null
 // };
+
 const App = (_: any) => {
   return (
     <div className="App" style={{ backgroundColor: colors.colors.black.dark }}>
